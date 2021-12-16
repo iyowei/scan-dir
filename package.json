@@ -1,0 +1,37 @@
+{
+  "name": "@iyowei/scan-dir",
+  "version": "1.0.0",
+  "description": "并行扫描文件夹，可在扫描的同时更新或过滤数据，一定程度复用遍历。",
+  "main": "scanDir.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyowei/scan-dir.git"
+  },
+  "keywords": [
+    "iyowei"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iyowei/scan-dir/issues"
+  },
+  "homepage": "https://github.com/iyowei/scan-dir#readme",
+  "type": "module",
+  "exports": "./scanDir.js",
+  "files": [
+    "scanDir.js"
+  ],
+  "engines": {
+    "node": ">=12.20.0"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@iyowei/ls-dir": "^1.0.0",
+    "@iyowei/scan-dir-each": "^1.0.1"
+  }
+}
