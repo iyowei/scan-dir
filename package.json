@@ -1,6 +1,6 @@
 {
   "name": "@iyowei/scan-dir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "并行扫描文件夹，可在扫描的同时更新或过滤数据，一定程度复用遍历。",
   "main": "scanDir.js",
   "scripts": {},
