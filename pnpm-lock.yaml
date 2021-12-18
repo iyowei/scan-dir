@@ -1,23 +1,23 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@iyowei/ls-dir': ^1.0.0
-  '@iyowei/scan-dir-each': ^1.0.1
+  '@iyowei/ls-dir': ^1.0.1
+  '@iyowei/scan-dir-each': ^1.0.2
 
 dependencies:
-  '@iyowei/ls-dir': 1.0.0
-  '@iyowei/scan-dir-each': 1.0.1
+  '@iyowei/ls-dir': 1.0.1
+  '@iyowei/scan-dir-each': 1.0.2
 
 packages:
 
-  /@iyowei/ls-dir/1.0.0:
-    resolution: {integrity: sha512-ZaXJcQpiZX/jE2Kfh+xCANwD4R4ov0JTWi7QfP5LzFuIQR2pWZ2JGWS+PpWmvyeMgFCHfSW+PNm/91xBvnGuDA==}
+  /@iyowei/ls-dir/1.0.1:
+    resolution: {integrity: sha512-z4Zy0Kya+bzn3+wS3oDZXuV2vuCGetDa22WICXsFD5luKN/uUxPgU3eXENQaGjbfL90RhPfbyWb07DHWFxop+A==}
     engines: {node: '>=12.20.0'}
     requiresBuild: true
     dev: false
 
-  /@iyowei/scan-dir-each/1.0.1:
-    resolution: {integrity: sha512-Ez/w01Xg4C/FydQwXMVTRE6/NlIw1Pl3vPXUVqi8GxIGy9P0y9xjocReAWs2ERHXzKeI/H1TD04Tsz6H5nt+2A==}
+  /@iyowei/scan-dir-each/1.0.2:
+    resolution: {integrity: sha512-FcMbjSuS7vCr8K1d8HafSfuV/Ls9X9PmZ37JWzrjIBYBxzT5zYTjQUDCljPWMh7csaU3TmsBMY2GsCnYWQo+dg==}
     engines: {node: '>=12.20.0'}
     requiresBuild: true
     dependencies:

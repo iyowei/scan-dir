@@ -29,7 +29,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@iyowei/ls-dir": "^1.0.0",
-    "@iyowei/scan-dir-each": "^1.0.1"
+    "@iyowei/ls-dir": "^1.0.1",
+    "@iyowei/scan-dir-each": "^1.0.2"
   }
 }
